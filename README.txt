@@ -20,3 +20,6 @@ THÔNG TIN NHÓM 11:
 LƯU Ý:
 + Một số phiên bản thư viện hoặc python cũ có thể hoạt động không chính xác.
 + Trò chơi có thể tồn tại một số lỗi bug.
+
+WEB GIỚI THIỆU TRÒ CHƠI
+https://paulnguyen02.github.io/Battletank-web/index.html
