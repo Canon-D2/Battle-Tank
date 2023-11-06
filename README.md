@@ -1,6 +1,9 @@
 ĐỒ ÁN GIỮA KÌ PHÁT TRIỀN PHẦN MỀM MÃ NGUỒN MỞ
 
-TRÒ CHƠI BẮN XE TĂNG - BATTLE CITY
+TRÒ CHƠI BẮN XE TĂNG - BATTLE CITY:
++ Mode 1: Player vs Bots
++ Mode 2: Player vs Player
++ Mode 3: Survival with Score
 
 HƯỚNG DẪN CÀI ĐẶT VÀ CHẠY CHƯƠNG TRÌNH:
 
@@ -19,7 +22,7 @@ THÔNG TIN NHÓM 11:
 
 LƯU Ý:
 + Một số phiên bản thư viện hoặc python cũ có thể hoạt động không chính xác.
-+ Trò chơi có thể tồn tại một số lỗi bug.
++ Trò chơi có thể tồn tại một số lỗi bug, chưa được tối ưu hóa.
 
-WEB GIỚI THIỆU TRÒ CHƠI
+WEBSITE GIỚI THIỆU TRÒ CHƠI
 https://paulnguyen02.github.io/Battletank-web/index.html
